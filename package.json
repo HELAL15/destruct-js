@@ -1,0 +1,21 @@
+{
+  "name": "smart-destruct",
+  "version": "1.0.0",
+  "description": "Type-safe utility for dynamic object destructuring",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "destruct",
+    "object",
+    "typescript",
+    "utility",
+    "destructure",
+    "data-mapping"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
