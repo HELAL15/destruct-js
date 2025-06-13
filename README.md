@@ -1,17 +1,17 @@
-# destruct-js
+# destructer-js
 
 A type-safe utility for dynamically destructuring deeply nested data objects.
 
 ## Install
 
 ```bash
-npm install destruct-js
+npm install destructer-js
 ```
 
 ## Usage
 
 ```ts
-import { destruct } from 'destruct-js';
+import { destruct } from 'destructer-js';
 
 const item = {
   title: 'Book',
