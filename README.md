@@ -1,17 +1,17 @@
-# smart-destruct
+# destruct-js
 
 A type-safe utility for dynamically destructuring deeply nested data objects.
 
 ## Install
 
 ```bash
-npm install smart-destruct
+npm install destruct-js
 ```
 
 ## Usage
 
 ```ts
-import { destruct } from 'smart-destruct';
+import { destruct } from 'destruct-js';
 
 const item = {
   title: 'Book',
