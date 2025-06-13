@@ -1,6 +1,6 @@
 {
   "name": "destructer-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Type-safe utility for dynamic object destructuring",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
