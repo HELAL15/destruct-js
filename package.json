@@ -1,5 +1,5 @@
 {
-  "name": "@helal15/destructer-js",
+  "name": "destructer-js",
   "version": "1.0.0",
   "description": "Type-safe utility for dynamic object destructuring",
   "main": "dist/index.js",
